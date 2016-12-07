@@ -1,0 +1,9 @@
+ESTE MATERIAL SERVIRÁ PARA ANOTAR AS EDIÇÕES FEITAS NO CÓDIGO DO SITE
+
+1.Nome: Rodrigo,(07/12/2016) às 14:00 hrs
+ - Na página index(página inicial) criei no menu a aba quem somos, 
+   é importante informar que a aba quem somos redireciona para a página no codigo generics.html
+ - Na página index(página inicial) criei no menu a aba serviços,	
+   é importante informar que a aba quem somos redireciona para a página no codigo elements.html
+ - - Na página index(página inicial) criei no menu a aba contato,	
+   é importante informar que a aba quem somos redireciona para a página no codigo 
